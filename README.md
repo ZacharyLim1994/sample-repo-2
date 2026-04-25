@@ -1,4 +1,6 @@
 # sample-repo-2
+This is made by Zachary Lim
+
 
 # Overview
 Group activity to familiarize with git
